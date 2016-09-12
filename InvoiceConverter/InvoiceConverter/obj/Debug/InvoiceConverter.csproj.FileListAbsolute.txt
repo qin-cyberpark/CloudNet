@@ -1,0 +1,16 @@
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\itextsharp.dll
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\itextsharp.xml
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.csprojResolveAssemblyReference.cache
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\test.MainForm.resources
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.csproj.GenerateResource.Cache
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\cloudnet_logo.png
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\InvoiceConverter.exe.config
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\InvoiceConverter.exe.manifest
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\InvoiceConverter.application
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\InvoiceConverter.exe
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Debug\InvoiceConverter.pdb
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.Properties.Resources.resources
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.exe.manifest
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.application
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.exe
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Debug\InvoiceConverter.pdb

@@ -1,0 +1,16 @@
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\InvoiceConverter.exe.config
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\cloudnet_logo.png
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\InvoiceConverter.exe.manifest
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\InvoiceConverter.application
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\InvoiceConverter.exe
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\InvoiceConverter.pdb
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\itextsharp.dll
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\bin\Release\itextsharp.xml
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\test.MainForm.resources
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.Properties.Resources.resources
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.csproj.GenerateResource.Cache
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.exe.manifest
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.application
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.exe
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.pdb
+C:\Works\CloudNet\InvoiceConverter\InvoiceConverter\obj\Release\InvoiceConverter.csprojResolveAssemblyReference.cache
